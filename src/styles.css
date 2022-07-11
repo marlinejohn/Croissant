@@ -1,3 +1,23 @@
 body {
-  background-color: #e6dcc3;
+  background-color: #e0d6bd;
+  max-width: 900px;
+  text-align: center;
+}
+h1,
+h2,
+p {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+.pages {
+  text-align: center;
+}
+
+.btn:hover {
+  color: white;
+}
+.email-link {
+  color: blueviolet;
+  text-decoration: none;
 }
